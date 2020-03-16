@@ -1,0 +1,22 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00b7ff;
+}
+
+#list-users {
+  text-align: center;
+  margin-top: 4vh;
+  font-size: 18px;
+}
+
+#search-form {
+  padding: 2rem;
+}
+
+#job-list td {
+  vertical-align: top;
+}
